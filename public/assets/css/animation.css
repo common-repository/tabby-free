@@ -1,0 +1,212 @@
+/* Tab Content Animation */
+.wt-single-tab {
+    -webkit-animation: wtSlideInBottom 0.5s;
+    animation: wtSlideInBottom 0.5s;
+}
+
+/* 
+  ==============================
+  Custom SlideInBottom Animation
+  ==============================
+*/
+
+@-webkit-keyframes wtSlideInBottom {
+    from {
+        -webkit-transform: translateY(30px);
+        transform: translateY(30px);
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    to {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+@-webkit-keyframes wtSlideInLeft {
+    from {
+        -webkit-transform: translateY(30px);
+        transform: translateY(30px);
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    to {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+@keyframes wtSlideInLeft {
+    from {
+        -webkit-transform: translateY(30px);
+        transform: translateY(30px);
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    to {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+
+
+
+* Animation */
+.wt-single-tab {
+    -webkit-animation: wtSlideInLeft 0.5s;
+    animation: wtSlideInLeft 0.5s;
+}
+
+/* 
+  ============================
+  Custom SlideInLeft Animation
+  ============================
+*/
+
+@-webkit-keyframes wtSlideInLeft {
+    from {
+        -webkit-transform: translateX(-30px);
+        transform: translateX(-30px);
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    to {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+@keyframes wtSlideInLeft {
+    from {
+        -webkit-transform: translateX(-30px);
+        transform: translateX(-30px);
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    to {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+
+/* Animation */
+.wt-single-tab {
+    -webkit-animation: wtSlideInRight 0.5s;
+    animation: wtSlideInRight 0.5s;
+}
+
+/* 
+  =============================
+  Custom SlideInRight Animation
+  =============================
+*/
+
+@-webkit-keyframes wtSlideInRight {
+    from {
+        -webkit-transform: translateX(30px);
+        transform: translateX(30px);
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    to {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+@-webkit-keyframes wtSlideInLeft {
+    from {
+        -webkit-transform: translateX(30px);
+        transform: translateX(30px);
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    to {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+@keyframes wtSlideInLeft {
+    from {
+        -webkit-transform: translateX(30px);
+        transform: translateX(30px);
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    to {
+        -webkit-transform: translateX(0);
+        transform: translateX(0);
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+
+/* Tab Animation */
+.wt-single-tab {
+    -webkit-animation: wtFadeIn 0.5s;
+    animation: wtFadeIn 0.5s;
+}
+
+/* 
+  =======================
+  Custom FadeIn Aniamtion
+  =======================
+*/
+
+@-webkit-keyframes wtFadeIn {
+    from {
+        -webkit-transform: translateY(-30px);
+        transform: translateY(-30px);
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    to {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+        opacity: 1;
+        visibility: visible;
+    }
+}
+
+@keyframes wtFadeIn {
+    from {
+        -webkit-transform: translateY(-30px);
+        transform: translateY(-30px);
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    to {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+        opacity: 1;
+        visibility: visible;
+    }
+}

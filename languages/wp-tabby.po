@@ -1,0 +1,371 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-11-08 18:19+0600\n"
+"PO-Revision-Date: 2021-11-08 18:19+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: includes\n"
+"X-Poedit-SearchPath-1: public\n"
+
+#: includes/class-wp-tabby-cpt.php:97
+msgid "Tabs updated."
+msgstr ""
+
+#: includes/class-wp-tabby-cpt.php:100
+msgid " updated."
+msgstr ""
+
+#: includes/class-wp-tabby-cpt.php:101
+#, php-format
+msgid "Tabs restored to revision from %s"
+msgstr ""
+
+#: includes/class-wp-tabby-cpt.php:102
+msgid "Tabs published."
+msgstr ""
+
+#: includes/class-wp-tabby-cpt.php:103
+msgid "Tabs saved."
+msgstr ""
+
+#: includes/class-wp-tabby-cpt.php:104
+msgid "Tabs submitted."
+msgstr ""
+
+#: includes/class-wp-tabby-cpt.php:105
+#, php-format
+msgid "Tabs scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: includes/class-wp-tabby-cpt.php:105
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: includes/class-wp-tabby-cpt.php:106
+msgid "Tabs draft updated."
+msgstr ""
+
+#: includes/class-wp-tabby-cpt.php:120
+msgid "Name"
+msgstr ""
+
+#: includes/class-wp-tabby-cpt.php:121
+msgid "Shortcode"
+msgstr ""
+
+#: includes/class-wp-tabby-cpt.php:122
+msgid "Date"
+msgstr ""
+
+#: includes/metaboxes-config.php:27
+msgid "WP Tabby"
+msgstr ""
+
+#: includes/metaboxes-config.php:30
+msgid "Normal Content"
+msgstr ""
+
+#: includes/metaboxes-config.php:31
+msgid "Taxonomy Content"
+msgstr ""
+
+#: includes/metaboxes-config.php:32
+msgid "Post Type"
+msgstr ""
+
+#: includes/metaboxes-config.php:33
+msgid "Nested Content"
+msgstr ""
+
+#: includes/metaboxes-config.php:34
+msgid "Woocommerce  Tabs"
+msgstr ""
+
+#: includes/metaboxes-config.php:42
+msgid "Section Title"
+msgstr ""
+
+#: includes/metaboxes-config.php:51
+msgid "Tabs Content"
+msgstr ""
+
+#: includes/metaboxes-config.php:52
+msgid "Add Content"
+msgstr ""
+
+#: includes/metaboxes-config.php:55
+msgid "Tab :"
+msgstr ""
+
+#: includes/metaboxes-config.php:63
+msgid "Title"
+msgstr ""
+
+#: includes/metaboxes-config.php:70
+msgid "Select Icon"
+msgstr ""
+
+#: includes/metaboxes-config.php:87
+msgid "Taxonomy Field"
+msgstr ""
+
+#: includes/metaboxes-config.php:89
+msgid "option"
+msgstr ""
+
+#: includes/metaboxes-config.php:97
+msgid "Posts Per Tab"
+msgstr ""
+
+#: includes/metaboxes-config.php:159
+msgid "Select layout"
+msgstr ""
+
+#: includes/metaboxes-config.php:160
+msgid "Choose a layout"
+msgstr ""
+
+#: includes/metaboxes-config.php:165
+msgid "Top"
+msgstr ""
+
+#: includes/metaboxes-config.php:169
+msgid "Bottom"
+msgstr ""
+
+#: includes/metaboxes-config.php:174 includes/metaboxes-config.php:193
+msgid "Left"
+msgstr ""
+
+#: includes/metaboxes-config.php:178
+msgid "Middle"
+msgstr ""
+
+#: includes/metaboxes-config.php:189
+msgid "Tabs Alignment"
+msgstr ""
+
+#: includes/metaboxes-config.php:190
+msgid "Alignment of layout"
+msgstr ""
+
+#: includes/metaboxes-config.php:194
+msgid "Right"
+msgstr ""
+
+#: includes/metaboxes-config.php:195
+msgid "Full Width"
+msgstr ""
+
+#: includes/metaboxes-config.php:205
+msgid "Select Theme"
+msgstr ""
+
+#: includes/metaboxes-config.php:206
+msgid ""
+"Theme demo's here <a href=\"https://demo.appglut.com/wp-tabby\" target="
+"\"_blank\"> Demos </a>"
+msgstr ""
+
+#: includes/metaboxes-config.php:208
+msgid "Default theme"
+msgstr ""
+
+#: includes/metaboxes-config.php:209
+msgid "Custom theme1"
+msgstr ""
+
+#: includes/metaboxes-config.php:210
+msgid "Custom theme2"
+msgstr ""
+
+#: includes/metaboxes-config.php:211
+msgid "Custom theme3"
+msgstr ""
+
+#: includes/metaboxes-config.php:212
+msgid "Custom theme4"
+msgstr ""
+
+#: includes/metaboxes-config.php:223
+msgid "Select for Icons Menu"
+msgstr ""
+
+#: includes/metaboxes-config.php:224
+msgid "choose Icon Menu "
+msgstr ""
+
+#: includes/metaboxes-config.php:226
+msgid "Default Title Menu"
+msgstr ""
+
+#: includes/metaboxes-config.php:227
+msgid "Icons Menu"
+msgstr ""
+
+#: includes/metaboxes-config.php:243
+msgid "Show Tabs Section Title"
+msgstr ""
+
+#: includes/metaboxes-config.php:244
+msgid "Show/Hide Section Title"
+msgstr ""
+
+#: includes/metaboxes-config.php:251
+msgid "Section Title HTML Tag"
+msgstr ""
+
+#: includes/metaboxes-config.php:252
+msgid "Select a tag for title."
+msgstr ""
+
+#: includes/metaboxes-config.php:269
+msgid "Section Title Tag Color"
+msgstr ""
+
+#: includes/metaboxes-config.php:270
+msgid "Select title tag color"
+msgstr ""
+
+#: includes/metaboxes-config.php:280
+msgid "Content Animation"
+msgstr ""
+
+#: includes/metaboxes-config.php:281
+msgid "Choose Contents will slide"
+msgstr ""
+
+#: includes/metaboxes-config.php:283
+msgid "No Slide"
+msgstr ""
+
+#: includes/metaboxes-config.php:284
+msgid "From Top"
+msgstr ""
+
+#: includes/metaboxes-config.php:285
+msgid "From Bottom"
+msgstr ""
+
+#: includes/metaboxes-config.php:286
+msgid "From Right"
+msgstr ""
+
+#: includes/metaboxes-config.php:287
+msgid "From Left"
+msgstr ""
+
+#: includes/metaboxes-config.php:296
+msgid "Tabs Title and Description"
+msgstr ""
+
+#: includes/metaboxes-config.php:303
+msgid "Font Typography"
+msgstr ""
+
+#: includes/metaboxes-config.php:304
+msgid "Select a Font Family"
+msgstr ""
+
+#: includes/metaboxes-config.php:312
+msgid "Title Background Color"
+msgstr ""
+
+#: includes/metaboxes-config.php:313
+msgid "Set tab background color."
+msgstr ""
+
+#: includes/metaboxes-config.php:315
+msgid "Color"
+msgstr ""
+
+#: includes/metaboxes-config.php:316
+msgid "Active Color"
+msgstr ""
+
+#: includes/metaboxes-config.php:317
+msgid "Hover Color"
+msgstr ""
+
+#: includes/metaboxes-config.php:329
+msgid "Title Padding"
+msgstr ""
+
+#: includes/metaboxes-config.php:330
+msgid "Set tabs title padding."
+msgstr ""
+
+#: includes/metaboxes-config.php:337
+msgid "Title Margin"
+msgstr ""
+
+#: includes/metaboxes-config.php:338
+msgid "Set tabs title margin."
+msgstr ""
+
+#: includes/metaboxes-config.php:345
+msgid "Title Border Radius"
+msgstr ""
+
+#: includes/metaboxes-config.php:346
+msgid "Set tabs border radius."
+msgstr ""
+
+#: includes/metaboxes-config.php:366
+msgid "Body Background Color"
+msgstr ""
+
+#: includes/metaboxes-config.php:367
+msgid "Select Background Color"
+msgstr ""
+
+#: includes/metaboxes-config.php:373
+msgid "Description Padding"
+msgstr ""
+
+#: includes/metaboxes-config.php:374
+msgid "Set description padding"
+msgstr ""
+
+#: includes/metaboxes-config.php:386
+msgid "Description Border"
+msgstr ""
+
+#: includes/metaboxes-config.php:387
+msgid "Set description border"
+msgstr ""
+
+#: includes/metaboxes-config.php:414
+msgid "Shortcode:"
+msgstr ""
+
+#: includes/metaboxes-config.php:414
+msgid "Shortcode  Copied!"
+msgstr ""
+
+#: includes/model/fields/taxonomy/taxonomy.php:88
+msgid "Select"
+msgstr ""
+
+#: public/content-type/normal-layout/horizontal-bottom.php:34
+#: public/content-type/normal-layout/horizontal-top.php:50
+#: public/content-type/normal-layout/middle.php:60
+#: public/content-type/normal-layout/vertical-top.php:60
+#: public/content-type/taxonomy-layout/horizontal-top.php:79
+#: public/content-type/taxonomy-layout/middle.php:86
+#: public/content-type/taxonomy-layout/vertical-top.php:87
+msgid "There is no content..."
+msgstr ""
+
+#: public/content-type/taxonomy-layout/horizontal-bottom.php:63
+msgid "There is no content"
+msgstr ""
